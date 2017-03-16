@@ -1,6 +1,6 @@
 # Rust-Guessing-Game
 A Rust based number guessing game.
 
-# Build project using: 'cargo build'
+Build command: 'cargo build'
 
-# Run project using: 'cargo run'
+Run command: 'cargo run'
